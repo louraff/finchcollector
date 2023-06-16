@@ -1,0 +1,32 @@
+[
+{
+  "model": "main_app.finch",
+  "pk": 1,
+  "fields": {
+    "name": "Ben Dover",
+    "breed": "Bird",
+    "description": "A feathered diva with a passion for opera, often seen conducting symphonies with his tail feathers while channeling the grace of a lumbering bison.",
+    "age": 8
+  }
+},
+{
+  "model": "main_app.finch",
+  "pk": 2,
+  "fields": {
+    "name": "Peter Gosinya",
+    "breed": "Bird",
+    "description": "A finch with the illusion of a rockstar, regularly seen mistaking worm wriggles for wild mosh pits at sunup.",
+    "age": 5
+  }
+},
+{
+  "model": "main_app.finch",
+  "pk": 3,
+  "fields": {
+    "name": "Anita Bath",
+    "breed": "Bird",
+    "description": "This fastidious finch often found vigorously flapping in puddles, convinced she's a one-bird synchronized swim team.",
+    "age": 9
+  }
+}
+]
